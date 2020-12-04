@@ -1,0 +1,14 @@
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp\bin\Debug\netstandard2.0\TshirtApp.deps.json
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp\bin\Debug\netstandard2.0\TshirtApp.dll
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp\bin\Debug\netstandard2.0\ref\TshirtApp.dll
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp\bin\Debug\netstandard2.0\TshirtApp.pdb
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp\obj\Debug\netstandard2.0\TshirtApp.csprojAssemblyReference.cache
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp\obj\Debug\netstandard2.0\TshirtApp.AssemblyInfoInputs.cache
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp\obj\Debug\netstandard2.0\TshirtApp.AssemblyInfo.cs
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp\obj\Debug\netstandard2.0\TshirtApp.csproj.CoreCompileInputs.cache
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp\obj\Debug\netstandard2.0\TshirtApp.dll
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp\obj\Debug\netstandard2.0\ref\TshirtApp.dll
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp\obj\Debug\netstandard2.0\TshirtApp.pdb

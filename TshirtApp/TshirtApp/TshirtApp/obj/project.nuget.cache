@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "r5QLa5H6DhczgNDu7oKC8zf6PIOZjePId5+n1En9C2gIjOfHJwdo59Qk9Nch3SQJxfYLdUWe2F+oMEHwMfFgcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lwazi Nhleko\\source\\repos\\TshirtOderingApp\\TshirtApp\\TshirtApp\\TshirtApp\\TshirtApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lwazi Nhleko\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lwazi Nhleko\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Lwazi Nhleko\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

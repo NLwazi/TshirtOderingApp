@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TshirtApp.MainPage">
+
+    <StackLayout>
+        <Entry Placeholder="Name"/>
+        <Entry Placeholder="Gender"/>
+        <Entry Placeholder="T-Shirt Size"/>
+        <Entry Placeholder="Date of Order"/>
+        <Entry Placeholder="T-Shirt Color"/>
+        <Entry Placeholder="Shipping Address"/>
+        <Button Text="Save" "saveButton"Clicked="SaveButton_Clicked/>"
+                <ListView>
+            <ListView.ItemsSource>
+                
+            </ListView.ItemsSource>
+            </ListView>
+                
+       
+    </StackLayout>
+
+</ContentPage>
