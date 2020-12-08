@@ -463,3 +463,15 @@ C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtAp
 C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp.Android\obj\Debug\90\android\assets\SQLite.Net.dll
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp.Android\obj\Debug\90\android\assets\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp.Android\obj\Debug\90\android\assets\System.Collections.dll
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp.Android\obj\Debug\90\android\assets\System.Diagnostics.Debug.dll
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp.Android\obj\Debug\90\android\assets\System.Globalization.dll
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp.Android\obj\Debug\90\android\assets\System.Linq.dll
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp.Android\obj\Debug\90\android\assets\System.Linq.Expressions.dll
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp.Android\obj\Debug\90\android\assets\System.Reflection.dll
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp.Android\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp.Android\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp.Android\obj\Debug\90\android\assets\System.Text.Encoding.dll
+C:\Users\Lwazi Nhleko\source\repos\TshirtOderingApp\TshirtApp\TshirtApp\TshirtApp.Android\obj\Debug\90\android\assets\System.Threading.dll

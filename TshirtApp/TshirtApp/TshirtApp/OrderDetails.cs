@@ -8,7 +8,9 @@ namespace TshirtApp
     class Order
     {
         public class Order
-        {
+        { 
+            [PrimaryKey,AutoIncrement]
+        public int Id { get; set; }
             public string Name { get; set; }
             public string Gender { get; set; }
             public string DateOfOrder { get; set; }

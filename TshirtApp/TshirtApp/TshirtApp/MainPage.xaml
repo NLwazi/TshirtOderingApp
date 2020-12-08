@@ -10,14 +10,18 @@
         <Entry Placeholder="Date of Order"/>
         <Entry Placeholder="T-Shirt Color"/>
         <Entry Placeholder="Shipping Address"/>
-        <Button Text="Save" "saveButton"Clicked="SaveButton_Clicked/>"
-                <ListView>
-            <ListView.ItemsSource>
-                
-            </ListView.ItemsSource>
+        <Button Text="saveOrderButton"Clicked="SaveButton_Clicked/>"
+           <ListView x:Name="listView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Name}"
+                              Detail="{Binding Gender}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
             </ListView>
-                
-       
+
+            
+
     </StackLayout>
 
 </ContentPage>

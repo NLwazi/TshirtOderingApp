@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 using SQLite;
+using TshirtApp;
 
 namespace TshirtApp
 {
@@ -17,18 +18,25 @@ namespace TshirtApp
         }
         void SaveButton_clicked(Object sender, System.EventArgs e)
 
-            Name name = new Name()
+            Order order = new Order()
             {
                 Name = nameEntry.Text,
                 Gender = genderEntry.Text,
                 TshirtSize = sizeEntry.Text,
-                DateOfOrder = dateEntry.Text,
                 TshirtColor = tshirtEntry.Text,
                 DateOfOrder = dateEntry.Text,
                 ShippingAddress = addressEntry.Text
             };
-    }       using(SQLiteConnection conn= new SQLiteConnection(App.FilePath))
-            {
-        
-            }
+    }
+    var db = new SQLiteConnection(dbPath);
+    using (SQLiteConnection conn) = new SQLiteConnection(App.FilePas)
+    {
+         db.CreateTable<Order>();
+    }
+                
 }
+
+            
+                
+
+

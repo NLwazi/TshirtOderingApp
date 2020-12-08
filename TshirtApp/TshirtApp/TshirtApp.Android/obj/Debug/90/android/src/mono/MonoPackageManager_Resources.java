@@ -4,6 +4,8 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "TshirtApp.Android.dll" comes first in this list. */
 		"TshirtApp.Android.dll",
 		"FormsViewGroup.dll",
+		"SQLite.Net.dll",
+		"SQLite.Net.Platform.XamarinAndroid.dll",
 		"TshirtApp.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Core.Runtime.dll",

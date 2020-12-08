@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tHR81xdmuRAIoP259HkqgtSuIe/8ud05IzLdlIsqeftbzBPSsuUIxJRa0yPICrUdXfWJzL2nLLO6uGcbyVLLhA==",
+  "dgSpecHash": "+ljQi7q2hfyBrQqtLbLVjNdXL14BlJ+ddD3Q0r3L+t8JkwuPNL9OoKst8eW48EggvcZUaCN8zCY1NIchCe9pJw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lwazi Nhleko\\source\\repos\\TshirtOderingApp\\TshirtApp\\TshirtApp\\TshirtApp.iOS\\TshirtApp.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Lwazi Nhleko\\.nuget\\packages\\sqlite.net-pcl\\3.1.1\\sqlite.net-pcl.3.1.1.nupkg.sha512",
+    "C:\\Users\\Lwazi Nhleko\\.nuget\\packages\\sqlite.net.core-pcl\\3.1.1\\sqlite.net.core-pcl.3.1.1.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],
